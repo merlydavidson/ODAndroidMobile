@@ -1,0 +1,527 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+MERGED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f0e3bfac7f31e42fc7683e481038e1e8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:17:1-30:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:1-187:12
+	package
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+MERGED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f0e3bfac7f31e42fc7683e481038e1e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f0e3bfac7f31e42fc7683e481038e1e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:5-43
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:8:15-40
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+		INJECTED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.telephony
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:11:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:14:9-50
+uses-feature#android.hardware.wifi
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:17:9-45
+uses-feature#android.hardware.microphone
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:19:5-64
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:19:19-61
+uses-feature#android.hardware.screen.portrait
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:20:19-66
+uses-permission#android.permission.VIBRATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:22:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:23:22-73
+uses-permission#android.permission.CAMERA
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:28:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:29:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:32:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:33:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:34:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:35:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:36:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:37:22-77
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:38:22-72
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:39:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:40:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:41:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:42:5-75
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:42:22-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:43:22-76
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:44:5-46:47
+	tools:ignore
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:46:9-44
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:45:9-61
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:47:5-49:47
+	tools:ignore
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:49:9-44
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:48:9-57
+uses-permission#android.permission.ACTION_NOTIFICATION_POLICY_ACCESS_SETTINGS
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:50:5-101
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:50:22-98
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:51:5-85
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:51:22-82
+application
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:53:5-185:19
+MERGED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f0e3bfac7f31e42fc7683e481038e1e8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f0e3bfac7f31e42fc7683e481038e1e8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:57:9-41
+	android:largeHeap
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:58:9-33
+	android:icon
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:56:9-45
+	android:allowBackup
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:55:9-35
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:59:9-40
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:54:9-38
+activity#com.olympus.dmmobile.registration.RegisterActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:60:9-62:64
+	android:windowSoftInputMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:62:13-52
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:61:13-54
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:60:19-64
+activity#com.olympus.dmmobile.SplashscreenActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:63:9-74:20
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:65:13-45
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:66:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:68:13-43
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:64:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:72:27-74
+activity#com.olympus.dmmobile.DMActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:75:9-80:44
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:77:13-45
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:78:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:80:13-41
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:76:13-39
+activity#com.olympus.dmmobile.settings.SettingsActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:81:9-86:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:83:13-45
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:84:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:86:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:82:13-54
+activity#com.olympus.dmmobile.DictationPropertyActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:87:9-94:55
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:90:13-45
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:91:13-43
+	android:windowSoftInputMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:94:13-52
+	android:configChanges
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:89:13-48
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:93:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:88:13-54
+activity#com.olympus.dmmobile.flashair.FlashAirMain
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:97:9-100:52
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:100:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:98:13-50
+activity#com.olympus.dmmobile.flashair.FlashAirBrowser
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:102:13-53
+activity#com.olympus.dmmobile.settings.WorktypeActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:104:9-107:66
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:107:13-63
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:105:13-54
+activity#com.olympus.dmmobile.settings.EmailOptionsActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:108:9-111:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:111:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:109:13-58
+activity#com.olympus.dmmobile.settings.ServerOptionsActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:112:9-115:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:115:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:113:13-59
+activity#com.olympus.dmmobile.settings.LegalNoticesActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:116:9-120:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:118:13-56
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:120:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:117:13-58
+activity#com.olympus.dmmobile.settings.LegalnoticeActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:121:9-125:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:123:13-56
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:125:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:122:13-57
+activity#com.olympus.dmmobile.settings.ThirdpartySoftware
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:126:9-129:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:128:13-49
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:129:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:127:13-56
+activity#com.olympus.dmmobile.recorder.DictateActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:130:9-134:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:133:13-49
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:132:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:134:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:131:13-53
+activity#com.olympus.dmmobile.settings.TrademarkActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:135:9-138:49
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:137:13-49
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:138:13-46
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:136:13-55
+activity#com.olympus.dmmobile.settings.NoSdcard
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:139:9-141:52
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:141:13-49
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:140:13-46
+activity#com.olympus.dmmobile.settings.SplashActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:142:9-144:52
+	android:screenOrientation
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:144:13-49
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:143:13-52
+service#com.olympus.dmmobile.ConvertAndUploadService
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:146:9-148:44
+	android:stopWithTask
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:148:13-41
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:147:13-52
+activity#com.olympus.dmmobile.CustomDialog
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:150:9-152:75
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:152:13-72
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:151:13-41
+activity#com.olympus.dmmobile.CustomLaunchDialog
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:153:9-155:75
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:155:13-72
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:154:13-47
+activity#com.olympus.dmmobile.settings.RecipientActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:156:9-160:56
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:158:13-52
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:159:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:160:13-53
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:157:13-55
+activity#com.olympus.dmmobile.settings.AddRecipientActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:161:9-164:58
+	android:launchMode
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:163:13-43
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:164:13-55
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:162:13-58
+activity#com.olympus.dmmobile.settings.PrivacyPolicyActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:165:9-168:58
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:167:13-57
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:168:13-55
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:166:13-59
+activity#com.olympus.dmmobile.settings.TermsOfUseActivity
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:169:9-172:58
+	android:label
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:171:13-51
+	android:theme
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:172:13-55
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:170:13-56
+provider#android.support.v4.content.FileProvider
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:174:9-184:20
+	android:grantUriPermissions
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:178:13-47
+	android:authorities
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:176:13-64
+	android:exported
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:177:13-37
+	tools:replace
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:179:13-48
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:175:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:180:13-183:52
+	android:resource
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:182:17-54
+	tools:replace
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:183:17-49
+	android:name
+		ADDED from /media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/src/main/AndroidManifest.xml:181:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dd5321b223256024e0d7f6256fe207ea/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/74707716cf01b43bdf88bacf2b8e1cd1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74bdb48f74817fac10d1331d1ef7778e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f4222a4ac4bbcb04e40987f6975c8896/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/08255adeaaf6ee106245942ba1c9871b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a3aa4ffdb9e18b4c55c8ae526033005f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2748f276747feb353ee99dbc6453547e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3ad1dfccc9c58b5ad239682b62700f92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7f667d1078419a27a8d96cc2e439d3de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a04f711c2d32c12ad6ffb241e5adffc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/413f5e4a24a9a8724588009a089b9395/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fbcb999d2f2e4617f02e273a924e5946/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/raneez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/89abf951f18fe82ad439e0ed62df5ce7/AndroidManifest.xml:26:13-58

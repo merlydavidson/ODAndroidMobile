@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.olympus.dmmobile"
+    android:versionCode="16"
+    android:versionName="2.0.0">
+
+    <uses-sdk android:minSdkVersion="9" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.bluetooth"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.microphone" />
+    <uses-feature android:name="android.hardware.screen.portrait" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.MODIFY_PHONE_STATE"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.ACTION_NOTIFICATION_POLICY_ACCESS_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+
+    <application
+        android:name=".DMApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".registration.RegisterActivity"
+            android:theme="@style/AppFullScreenTheme"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity
+            android:name=".SplashscreenActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppBase">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DMActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/dmact" />
+        <activity
+            android:name=".settings.SettingsActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/prefScreen" />
+        <activity
+            android:name=".DictationPropertyActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/prefScreen"
+            android:windowSoftInputMode="adjustPan" /> <!-- <service -->
+        <!-- android:name=".Errorservice" -->
+        <!-- android:label="@string/app_name"></service> -->
+        <activity
+            android:name=".flashair.FlashAirMain"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".flashair.FlashAirBrowser"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".settings.WorktypeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".settings.EmailOptionsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/prefScreen" />
+        <activity
+            android:name=".settings.ServerOptionsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/prefScreen" />
+        <activity
+            android:name=".settings.LegalNoticesActivity"
+            android:label="@string/legal_notices_title"
+            android:screenOrientation="portrait"
+            android:theme="@style/PrefsTheme" />
+        <activity
+            android:name=".settings.LegalnoticeActivity"
+            android:label="@string/legal_notices_title"
+            android:screenOrientation="portrait"
+            android:theme="@style/PrefsTheme" />
+        <activity
+            android:name=".settings.ThirdpartySoftware"
+            android:screenOrientation="portrait"
+            android:theme="@style/PrefsTheme" />
+        <activity
+            android:name=".recorder.DictateActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/prefScreen" />
+        <activity
+            android:name=".settings.TrademarkActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/PrefsTheme" />
+        <activity
+            android:name=".settings.NoSdcard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".settings.SplashActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name=".ConvertAndUploadService"
+            android:stopWithTask="false" />
+
+        <activity
+            android:name=".CustomDialog"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".CustomLaunchDialog"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".settings.RecipientActivity"
+            android:label="@string/recipient_title"
+            android:launchMode="singleTop"
+            android:theme="@style/recepientActivity" />
+        <activity
+            android:name=".settings.AddRecipientActivity"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Light" />
+        <activity
+            android:name=".settings.PrivacyPolicyActivity"
+            android:label="@string/privacy_policy_title"
+            android:theme="@android:style/Theme.Black" />
+        <activity
+            android:name=".settings.TermsOfUseActivity"
+            android:label="@string/terms_of_title"
+            android:theme="@android:style/Theme.Black" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.olympus.dmmobile.provider"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            tools:replace="android:authorities">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_path"
+                tools:replace="android:resource" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+#Tue Aug 27 12:23:43 IST 2019
+base.0=/media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/media/raneez/Drive1/Documents/Development/Projects/m2comsys/August/OlympusDictation_july/OlympusDictation/OlympusDictationAccountReg/app/build/intermediates/transforms/dex/release/0/classes.dex

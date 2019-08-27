@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <string name="app_name">Dictation</string>
+      <string name="hello_world">Hello world!</string>
+      <string name="menu_settings">Settings</string>
+     
+     <!-- Dictate -->
+     <string name="Property_Worktype">Worktype:</string>
+     <string name="Record_Save_Actionsheet_Message">You haven\'t saved your changes.Click Discard below to proceed
+               without saving or Cancel to return to recording. </string>
+     <string name="Button_Discard">Discard</string>
+     <string name="Button_Pending">Pending</string>
+     <string name="Button_Cancel">Cancel</string>
+     <string name="Button_Sendtosever">Send to Server</string>
+     <string name="Button_Sendviaemail">Send via E-mail</string>
+     <string name="Button_Email">E-mail</string>
+     <string name="Button_FTP">FTP</string>
+     <string name="Dictate_Alert_name_exists">Dictation Name Exists</string>
+     <string name="Dictate_Alert_Ok">OK</string>
+     <string name="Dictate_Alert_Yes">YES</string>
+     <string name="Dictate_Alert_No">NO</string>
+     <string name="Dictate_Alert_Insufficent_Device_Memory">Insufficent device memory</string>
+     <string name="Dictate_Alert_Insufficent_Memory">Insufficent memory</string>
+     <string name="Dictate_Alert_Maximum_Recording_Message">Cannot record anymore since it reached maximum recording.</string>
+     <string name="Dictate_Alert_Recording_File_Large_Message">Since recording file size is large, it will be sent separating to several files.</string>
+     <string name="Dictate_Preparing_Audio">Preparing Audio</string>
+     <string name="Dictate_Saving_Audio">Saving Audio</string>
+     <string name="Dictate_Disconnect_Call">Please disconnect the active call and proceed</string>
+     <string name="Dictate_Alert_Continue_Insert_Message">Do you want to continue insertion?</string>
+     <string name="Dictate_Alert_Continue_Overwrite_Message">Do you want to continue overwrite?</string>
+     <string name="Dictate_Alert_Continue">Continue</string>
+     <string name="Dictate_Alert_Stop">Stop</string>
+     <string name="Dictate_Loading">Loading...</string>
+     <string name="Dictate_Alert_Configure_Server">Please configure server settings</string>
+     <string name="Dictate_Alert_Compress_Recording_Background_message">Please wait while compress your recording or press
+            the home button to compress in the background </string>
+     <string name="Dictate_Alert_Compressing">Compressing</string>
+     <string name="Dictate_Alert_File_Conversion">File conversion in progress</string>     
+     <string name="Dictate_Low_Memory">There is not enough memory or disk space to complete the operation</string>
+     <string name="Dictate_No_Space">No Disk Space</string>
+     <string name="Dictate_Network_Notavailable">Network not available</string>
+     <string name="Dictate_Email_Configuration">No Email account configured</string>
+     <!-- Dictate -->
+     
+     <!-- Property  -->
+     <string name="Property_Back">Back</string>
+     <string name="Property_Edit">Edit</string>
+     <string name="Property_Done">Done</string>
+     <string name="Property_Priority">Priority:</string>
+     <string name="Property_Jobnumber">Job Number:</string>
+     <string name="Property_Status">Status:</string>
+     <string name="Property_Comment">Comment:</string>
+     <string name="Property_Close">Close</string>
+     <string name="Property_Shake_Twice">Shake twice for \"Record\"</string>  
+     <string name="Property_New">New</string>
+     <string name="Property_Pending">Pending</string>
+     <string name="Property_Outbox">Outbox</string>
+     <string name="Property_sending">Sending</string>
+     <string name="property_sending_failed">Sending Failed</string>
+     <string name="Property_Dictate_Sent">Sent</string>
+     <string name="Property_Via_Email">Sent via E-mail</string>
+     <string name="Property_Timeout">Timeout</string>
+     <string name="Property_Settings">Settings</string>
+     <string name="Property_Waiting_Send">Waiting to Send</string>
+     <string name="Property_Retrying">Retrying</string>
+     <string name="Property_Conversion_Failed">Conversion Failed</string>
+    
+     <string name="Camera_Take_Photo">Take Photo</string>
+     <string name="Camera_Choose_Existing">Choose Existing</string>
+     <string name="Camera_Cancel">Cancel</string>
+     <string name="Camera_Delete_Photo">Delete Photo</string>
+     
+     
+      <!-- Property  -->
+ 
+      <!-- Recording Labels -->
+    <string name="next_btn" >Next</string>
+    <string name="Recording_Label_Back">Back</string>
+    <string name="Recording_Label_Pending">Pending</string>
+    <string name="Recording_Label_Outbox">Outbox</string>
+    <string name="Recording_Label_Sent">Sent</string>
+    <string name="Recording_Label_Edit">Edit</string>
+    <string name="Recording_Label_Search">Search</string>
+    <string name="Recording_Label_Send">Send</string>
+    <string name="Recording_Label_Send_All">Send All</string>
+    <string name="Recording_Label_Delete">Delete</string>
+    <string name="Recording_Label_Delete_All">Delete All</string>
+    <string name="Recording_Label_Settings">Settings</string>
+    <string name="Recording_Alerts_Do_Sent_Dictation_Message">What do you want to do for sent dictation?</string>
+    <string name="Recording_Alerts_Sent_Dictation">Sent dictation</string>
+    <string name="Recording_Alerts_Review">Review</string>
+    <string name="Recording_Alerts_Edit_Copy">Edit Copy</string>
+    <string name="Recording_Alerts_Cancel">Cancel</string>
+    <string name="Recording_Alerts_Delete_Recording_Pending_Message">Are you sure you want to delete all recordings in #?
+            This cannot be undone and you will lose all recordings in #.</string>
+    <string name="Recording_Alerts_Delete_All_recordings">Delete All Recordings?</string>
+    <string name="Recording_Alerts_Delete_All">Delete All</string>
+    <string name="Recording_Alerts_Delete">Delete</string>
+    <string name="Recording_Alerts_Delete_Pending_Message">Are you sure you want to delete # recordings in *? 
+            This cannot be undone.  </string>
+    <string name="Recording_Alerts_Delete_Recordings">Delete # Recordings?</string>  
+    <string name="Recording_Alerts_Send_All_Recordings_Message">Are you sure you want to send all recordings?</string>      
+    <string name="Recording_Alerts_Send_All_Recordings">Send All Recordings?</string>
+    <string name="Recording_Alerts_Send_All_Server">Send All to Server</string>
+    <string name="Recording_Alerts_Send_All_Email">Send All via E-mail</string>
+    <string name="Recording_Alerts_Send_Recordings_Message">Are you sure you want to send # recordings?</string>
+    <string name="Recording_Alerts_Send_Recordings">Send # Recordings?</string>
+    <string name="Recording_Alerts_Copying_Editing">Copying file for editing</string>
+    <string name="Recording_Alerts_Encrypt_File_Message">This service sends dictation files via E-mail and FTP. 
+        To ensure information security, Olympus strongly recommends that your administrator activates encryption for dictation files. </string>
+   <string name="Recording_Alerts_Dontshow">Don\'t show this again.</string>
+     <!-- Recordings -->
+     
+     
+    <!-- Flashair Labels -->
+    
+     <string name="Flashair_Label_Connect_Flashair">Connect FlashAir</string>
+     <string name="Flashair_Label_Choose_SSID">Choose an SSID</string>
+     <string name="Flashair_Recordings">Recordings</string>
+     <string name="Flashair_Label_Establish_WiFi_Message">Establish a Wi-Fi Connection with FlashAir card and 
+                  Tap "Done"</string>
+     <string name="Flashair_Label_Choose_FlashAir">FlashAir connection is required for this function. Connect to FlashAir
+        card using Settings>Wi-Fi>Choose a network </string>
+     <string name="Flashair_Label_Scan_Flashair">Scanning FlashAir card</string>
+     <string name="Flashair_Label_Flashcard_inSettings">Set this FlashAir card in Settings</string>
+     <string name="Flashair_Label_YES">YES</string>
+     <string name="Flashair_Label_NO">NO</string>
+     <string name="Flashair_Label_Done">Done</string>
+     <string name="Flashair_Label_Select_All">Select All</string>
+     <string name="Flashair_Label_Deselect_All">Deselect All</string>
+     <string name="Flashair_Label_Send">Send</string>
+     <string name="Flashair_Label_Downloading">Downloading</string>
+     <string name="Flashair_Label_DownloadSummary">Download Summary</string>
+     <string name="Flashair_Label_Files_Downloaded">* out of # file(s) downloaded</string>
+     <string name="Flashair_Label_Password">Password</string>
+     <string name="Flashair_Label_Authenticating">Authenticating</string>
+     <string name="Flashair_Label_Obtaining_Ip">Obtaining IP Address</string>
+     <string name="Flashair_Label_Connection_Compleate">Connection Complete</string>
+     <string name="Flashair_Label_Items"># Items</string>
+     <string name="Flashair_Alert_WiFi_Accessible">Wi-Fi is not accessible. Please make sure that Wi-Fi is
+        enabled in the settings.</string>
+     <string name="Flashair_Alert_WiFi_Connection">Wi-Fi Connection</string>
+     <string name="Flashair_Alert_Connection_Notfound">FlashAir Wi-Fi Connection not found.</string>
+     <string name="Flashair_Alert_Cannot_Establish_Connection">Cannot establish connection with FlashAir card</string>
+     <string name="Flashair_Alert_Connection_Error">Connection Error</string>
+     <string name="Flashair_Alert_Valid_WiFi_Connection">Please switch back to valid Wi-fi connection
+           if you are connected to the FlashAir card</string>
+     <string name="Flashair_Alert_Error_Recieving_Data">An error occurred while receiving the data.
+         Please check the FlashAir connection</string>
+     <string name="Flashair_Alert_FTP_option">Cannot send the following file(s) since the file size is too large
+             .Please use \'FTP\' option to send large files.</string>
+     <string name="Flashair_Alert_Size_limitation">File Size Limitation</string>  
+     <string name="Flashair_Alert_Activate_Account">Please activate your account. Tap the [Check Server Connection]
+       to activate in the Server Options.</string>  
+   
+    
+    <!-- Settings -->
+    <string name="Settings_about">About</string>
+    <string name="Settings_setting">Settings</string>
+    <string name="category_comunication">Communication</string>
+    <string name="category_recording">Recording</string>
+    <string name="category_workflow">Workflow</string>
+    <string name="category_general">General</string>
+    <string name="Settings_Information">Information</string>
+    <string name="send_title">Send</string>   
+    <string-array name="send_entries">
+        <item >via E-mail</item>
+        <item >to Server</item>
+    </string-array>
+    <string-array name="send_values">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="sendoption_server">Server Settings</string>
+    <string name="server_url_title">Server URL</string>
+    <string name="login_category">Login</string>
+    <string name="login_user_title">User</string>
+    <string name="login_password_title">Password</string>
+    
+    <string name="server_title">Server</string>
+    <string name="Settings_Invalid_Email">Invalid E-mail</string>
+    <string name="check_server_text">Check Server Connection</string>  
+    <string name="Settings_Valid_url">The ODP connection failed.Please enter a valid ODP URL.</string>
+    <string name="sendoption_email">E-mail Options</string>
+    <string name="recipient_title">Recipients</string>
+    <string name="subject_title">Subject</string>
+    <string name="message_title">Message Body</string>
+    <string name="rec_format_title">Recording Format</string>
+    <string name="audio_quality_category">Audio Quality</string>
+    <string name="Settings_High">High</string>
+    <string name="Settings_Standard">Standard - 8kHz</string>
+    <string name="blutooth_input_title">Bluetooth Input</string>
+    <string name="mic_sens_screen_title">Microphone Sensitivity</string>
+    <string name="Settings_Low">Low</string>
+    <string name="vcva_screen_title">VCVA</string>
+    <string name="vcva_title">Activate VCVA</string>
+    <string name="Settings_Vcva_Level">VCVA Level</string>
+    <string name="Settings_max">MAX</string>
+    <string name="Settings_min">MIN</string>
+    <string name="push_to_talk_title">Push to Talk</string>
+    <string name="author_title">Author</string>
+    <string name="worktype_list_title">Worktype List</string>
+    <string name="Settings_Add_Worktype">Add Worktype</string>
+    <string name="Settings_Enter_Worktype">Enter Worktype</string>
+    <string name="Settings_Cancel">Cancel</string>
+    <string name="keep_sent_items_title">Keep Sent Items</string>
+    <string name="Settings_Select">Select</string>
+    <string-array name="keep_item_enties">
+        <item >Last day</item>
+        <item >3 days</item>
+        <item >Last week</item>
+        <item >Last 2 weeks</item>
+        <item >Last month</item>
+        <item >Always</item>
+        </string-array>
+        <string-array name="keep_item_values">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+    </string-array>
+    <string name="Setting_LastDay">Last day</string>
+    <string name="Setting_3day">3 days</string>
+    <string name="Setting_Lastweek">Last week</string>
+    <string name="Setting_Last2weeks">Last 2 weeks</string>
+    <string name="Setting_Lastmonth">Last month</string>
+    <string name="Setting_Always">Always</string>
+    <string name="Setting_Never">Never</string>
+    <string name="onlaunch_show_title">On Launch Show</string>
+    <string-array name="on_launch_values">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string-array name="on_launch_entries">
+        <item >New Recording</item>
+        <item >List of Recordings</item>
+    </string-array>
+    <string name="Settings_Worktype_Exist">This worktype already exists in the list</string>
+    <string name="language_title">Language</string>
+    <string name="use_flashair_title">Use FlashAir</string>
+    <string name="legal_notices_title">Legal Notices</string>
+    <string name="Settings_Delete">Delete</string>
+    <string name="Settings_Success">Success</string>
+    <string name="Settings_Alerts">Alerts</string>
+    <string name="Settings_Error">Error</string>
+    <string name="Settings_Change_Server">You have changed server information. Do you want to authenticate with server?</string>
+    <string name="Settings_Discard">Discard Changes</string>
+    <string name="Settings_Activate">Activate</string>
+    <string name="Settings_Activating">Activating</string>
+    <string name="Settings_Server_Connection">Server connection successful</string>
+    <string name="Settings_Error_Correct">Connection to the server failed. Please make sure Server URL, User, Password and E-mail are correct.</string>
+    <string name="Settings_via_email">via E-mail</string>
+    <string name="Settings_to_server">to Server</string>
+    <string name="Settings_newRecording">New Recording</string>
+    <string name="Settings_ListRecording">List of Recordings</string>
+    <string name="Settings_trademark">FlashAir is a trademark or registered trademark of TOSHIBA CORPORATION</string>
+
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_content"><![CDATA[<p><strong>Software Privacy Policy for Olympus Dictation</strong></p>
+<p><br /><strong>1. RECORD_AUDIO</strong><br />This is used for the recording function in the App.<br /> <br /><strong>2. READ_PHONE_STATE</strong><br />By reading this state will detect incoming and outgoing calls that occurred during recording and stop the App to record.<br /> <br /><strong>3. READ_CONTACTS</strong><br />This is being used to select the destination of the e-mails attached with voice files.</p>
+<p>&nbsp;</p>]]></string>
+
+    <!-- Settings -->
+    
+       
+    <!-- ODP-Resultcode -->
+    <string name="Ils_Result_Global_Client_Error">Global Client Error</string>
+    <string name="Ils_Result_Global_Server_Error">Global Server Error</string>
+    <string name="Ils_Result_Internal_Server_error">Internal Server error</string>
+    <string name="Ils_Result_Bad_request">Bad Request</string>
+    <string name="Ils_Result_Resend_Selected">Select the \"Sending Failed\" items in the Outbox tab and tap the [Send] icon to resend them.</string>   
+    <string name="Ils_Result_Fail_Activate">Fail to Activate</string>
+    <string name="ILs_Result_Another_UUID_Activated">Another UUID Activated</string>
+    <!-- <string name="ILs_Result_Already_Activated">Your profile is being used by another device. Select [Yes] to use your profile to activate this device.
+		NOTE: The other device will be deactivated once you select [Yes].</string> -->
+    <string name="Ils_Result_Unauthorized">Unauthorized</string>
+    <string name="Ils_Result_Unexpected_Error">An unexpected system error occurred.</string>
+    <string name="Ils_Result_Resource_Not_Found">Resource Not Found</string>
+    <string name="Ils_Result_Client_Update">Need Client Update</string>
+    <string name="Ils_Result_Need_Client_Update">The version of the app is old. Unable to access the service server. Update the app.</string>
+    <string name="Ils_Result_Not_Activated">Not Activated</string>
+    <string name="Ils_Result_Activate_Server">This device is deactivated by administrator.Tap the [Check Server
+         Connection] to activate in the Server Options.</string>
+    <string name="Ils_Result_License_Expired">License Expired</string>     
+    <string name="Ils_Result_License_Access_Service">The license expired. Unable to access the service server.</string>
+    <string name="Ils_Result_Account_Disabled">Account Disabled</string>
+    <string name="Ils_Result_Service_Unavailable">Service Unavailable</string>   
+    <string name="Ils_Result_Cannot_Connect">Cannot connect</string>
+    <string name="Ils_Result_Cannot_Connect_Server">Can\'t connect to server.The ODP connection failed.</string>
+    <string name="Ils_Result_Invalid_Url">Invalid URL</string>
+    <string name="start_ini_reg">Start Initial Registration</string>
+     <string name="legal_notices_content">======================================\n
+Third Party Software Notice\n
+	\t(Updated: 5th Aug 2013)\n======================================\n\n
+
+This application software may use third party software, including but not limited to
+the software as shown below. Any such third party software is provided subject to the
+terms under which Olympus Corporation received it.\n\n
+
+Some of the licenses associated with this application software may permit you to
+obtain source code for certain software. You may obtain a copy of this source code
+(and, where applicable, other materials) in a way specified in the description for
+such software as shown below.\n======================================\n
+List of Third Party Software\n======================================\n
+No.1:\n
+   \tSoftware Name: AES/SHA1/SHA2/HMAC \n
+   \tLicensing Term: Copyright owner\'s License\n======================================\n\n======================================\n
+License for AES/SHA1/SHA2/HMAC\n======================================\n\n
+
+The Application Software is based in part on software by the following copyright owner.\n 
+Copyright (c) 2002, Dr Brian Gladman, Worcester, UK. All rights reserved. \n\n
+ 
+LICENSE TERMS \n\n
+ 
+The free distribution and use of this software in both source and binary form is allowed 
+  (with or without changes) provided that:\n\n
+
+    \t1. distributions of this source code include the above copyright notice,   
+          this list of conditions and the following disclaimer; \n
+    \t2. distributions in binary form include the above copyright notice, this list of 
+          conditions and the following disclaimer in the documentation and/or other 
+          associated materials; \n
+    \t3. the copyright holder\'s name is not used to endorse products built using this   
+          software without specific written permission.\n\n 
+ 
+ALTERNATIVELY, provided that this notice is retained in full, this product may be   
+distributed under the terms of the GNU General Public License (GPL), in which case   
+the provisions of the GPL apply INSTEAD OF those given above. \n\n
+ 
+DISCLAIMER \n\n
+ 
+This software is provided \'as is\' with no explicit or implied warranties in respect   
+of its properties, including, but not limited to, correctness and/or fitness for purpose. \n
+
+</string>   
+<string name="entervalidemail">Please enter a valid E-mail</string>
+<string name="Settings_Language">Please restart application for language settings to take effect</string>
+<string name="Account_Disabled">The account is disabled. Unable to access the service server.</string>
+<string name="Continue_Recording">Do you want to continue recording?</string>
+<string name="Property_enter_valid_dict_name">Please enter a valid dictation name.</string>
+<string name="Trademarks">Trademarks</string>
+<string name="ThirdPartySoftware">Third Party Software</string>
+<string name="None">None</string>
+<string name="ON">ON</string>
+<string name="OFF">OFF</string>
+<string name="Alert">Alert</string>
+<string name="FlashAirTrade">FlashAir™ is a trademark or registered trademark of TOSHIBA CORPORATION.</string>
+<string name="worktypeexist">This worktype already exists in the list</string>
+<string name="Dictate_Alert_Already_Exists_Message">This dictation name already exists in the list</string>
+<string name="HomeSleep">Sending dictation file(s). 
+Do not press Home/Sleep button until the transmission is completed.</string>
+<string name="Settings_Max_Recipients">Maximum recipients reached</string>
+<string name="SourceNotfound">Source not found</string>
+<string name="Settings_About">About</string>
+<string name="UnableRecording">Unable to start recording. Another recorder application running</string>
+<string name="FileSizeMaximum">Since selected file size exceeds email attachment limit, it will be sent as multiple emails.</string>
+<string name="WifiAllianze">Wi-Fi is a registered mark of the Wi-Fi Alliance. </string>
+<string name="Add">Add</string> 
+<string name="Select">Select</string>
+<string name="Connect_Flashair">Connect to FlashAir manually from Settings</string>  
+<string name="Connecting_to">Connecting to</string>
+<!-- ODP-Resultcode -->  
+
+
+<!-- New Stings -->
+
+    <string name="author_id">Author ID</string>
+    <string name="email_title">Author\'s e-mail address and Author ID (Initials)</string>
+    <string name="server_options_recipient_title">Recipients</string>
+    <string name="Follow_Server_Settings">Use Portal Settings (Default)</string>
+    <string name="email_not_available">E-mail not available for selected person</string>
+    <string name="edit_recipients">Edit Recipients</string>
+    <string name="add_recipients">Add Recipients</string>
+    <string name="choose_email_address">Please choose E-mail address</string>
+    <string name="enter_valid_email_address">Please enter valid E-mail address</string>
+    <string name="recipient_already_exist">This recipient already exist</string>
+    <string name="add_recipients_description">Enter new recipient\'s e-mail address, tap the (+) icon to add. Please select this user from the Recipients list, to send dictations to this user.</string>
+    <string name="update_recipient_success_message">Recipients updated successfully</string>
+    <string name="Recording_Alerts_Copying_Resend">Copying file for resending</string>
+    <string name="invalid_recipient_email_alert_message">The following E-mail address(s) is invalid \n</string>
+    <string name="resend">Resend</string>
+    
+    <string name="recipient_hint_text">Enter E-mail address</string>
+    
+    <!-- ODP Strings -->
+    
+    <string name="Ils_Result_Another_Email_Activated">This device is already activated by another E-mail address. Do you want to change the E-mail address?</string>
+    <string name="Ils_Result_No_Unused_Licence">Activation failed due to a shortage of available licenses.
+	Please order an additional license.</string>
+    <string name="Ils_Result_Invalid_Arguments">Activation failed due to incorrect Author ID or Recipients entries.</string>
+    <string name="ILs_Result_Already_Activated">Your profile is being used by another device. Select [Yes] to use your profile to activate this device.\nNOTE: The other device will be deactivated once you select [Yes].</string>
+    <string name="Ils_Result_Code_4010">Not Found Unused License</string>
+    <string name="Ils_Result_Code_4011">Invalid Arguments</string>
+    <string name="Ils_Result_Code_4012">Another E-mail address Activated</string>
+
+    <!--Permission-->
+
+    <string name="muteNotification">To prevent the notification sound from being recorded, tap "PERMISSION", then allow Dictation to access Do not disturb, and try again.</string>
+    <string name="permissionReq">Permission Required</string>
+    <string name="permission">Permission</string>
+    <string name="permissionAccess">To execute this action, tap "SETTINGS", go to App info > Permissions, then allow the following permissions and try again:</string>
+    <string name="deny">Deny</string>
+    <string name="allow">Allow</string>
+    <string name="turnOnLocation">To detect FlashAir, you need to allow Location permission. </string>
+
+
+    <!--Foreground Service-->
+    <string name="serviceIdle">Waiting for dictation file</string>
+    <string name="serviceActive">Converting file format, and then transfer it to the server.</string>
+    <string name="terms_of_use_title">Terms of Use</string>
+    <string name="Recording_Label_recycle">Recycle Bin</string>
+    <string name="imp_notification_title">[Important  Notification]</string>
+    <string name="imp_notification_message">In order to send Dictations from the App, you are required to sign up for the Olympus Dictation Delivery Service(ODDS).\\nYour Dictations will be sent to an external server managed by ODDS. By sigining up, your dictations will be tranferred from the external server to a designated destination.\\nPlease sign up to use ODDS as a trial.During the trial period, you can test the full functionality of the service.\\nAfter the trial, you are required to purchase annual license in order to continue using the ODDS.\\nClick the following and sign up for the trialnow.</string>
+    <string name="imp_notification_popup_message">In order to send Dictations from the App, you are required to sign up for the Olympus Dictation Delivery Service (ODDS). \n\nCurrently, your Dictations are sent to an external server managed by ODDS. By signing up for an ODDS trial, your Dictations will then be transferred from the external server to a destination that you designate. \n\nAfter the trial, you are required to purchase an annual license in order to continue using the ODDS.\n\n Tap below to sign up for the trial now. </string>
+    <string name="ini_body_text">"Please tap the button below if this is your first time to register for the Olympus Dictation Delivery Service.  "</string>
+    <string name="comp_body_text">If you already have a Company Account,  please tap the button below to complete your registration.  \n\nPlease confirm the following information with your administrator and enter the information in the next screen
+ \n\u2022  Account ID \n\u2022  Password for ODSS \n\u2022  Your E-mail Address</string>
+    <string name="action_title">[For new users]</string>
+    <string name="action_cmp_title">[For users that have a existing Company Account]</string>
+    <string name="account_reg_txt">Account Registration</string>
+    <string name="reg_info_text">Account Registration for Dictation Delivery Service</string>
+    <string name="name_per_txt">Please enter your company name or your personal name</string>
+    <string name="account_id_txt">Please create your Account ID. The ID must be less than 256 letters.</string>
+    <string name="account_password_txt">Please set a password for your Account. The password must be between 8 and 24 characters, containing at least one letter, one number, and one special character.</string>
+    <string name="account_email_txt">Please enter an e-mail address for your Account.This e-mail address can also be used for the first Author using the Dictation App.</string>
+    <string name="Step1_Error_Correct">Please make sure Personal name,AuthorID,Password and EmailID are correct</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="authorid_hint">Enter Author ID</string>
+    <string name="password_hint">Enter Your Account Password</string>
+    <string name="email_hint">Your E-mail Address</string>
+    <string name="auth_email_hint">Author E-mail Address</string>
+    <string name="auth_email">Please enter the E-mail Address for the Author who will use the Dictation App.</string>
+    <string name="authorid1_hint">Author ID 1</string>
+    <string name="account_id1">Please set an ID for the Author. Dictation files will be tagged with the Author ID. The ID must be between 1 and 16 letters, numbers or underbars.</string>
+    <string name="dest_acct_hint">Enter Destination for your Dictations</string>
+    <string name="dest_accnt">Please enter the E-mail destination for the Dictation files from Author. If you with to add multiple destinations, please setup from Olympus Dictation Portal after you complete the initial setup</string>
+    <string name="user_reg_info_text">User Registration for Dictation App</string>
+    <string name="password_reg_info_text">Password for Dictation Delivery Service</string>
+    <string name="password3_hint">Enter Password</string>
+    <string name="password3">Please set a password for the Dictation Delivery Service.  The password must be more than 8 or less than 25 letters,number and symbols.</string>
+    <string name="confirmation_text">Confirmation</string>
+    <string name="accnt_info_con">Account Information</string>
+    <string name="name_cnm_title">Your Name</string>
+    <string name="accntid_cnm_title">Enter Your Account ID</string>
+    <string name="user_info_con">User Information for App</string>
+    <string name="password_dic_ser_hint">Dictation Service Password</string>
+    <string name="password_con" />
+    <string name="password_dic_con">Password for Dictation Delivery Service</string>
+    <string name="edit_conm">Edit</string>
+    <string name="term_use_con">![CDATA[Click here to read the <a href="https://www.google.com/">Terms of Use </a>for ODDS.]]</string>
+    <string name="confm_ter_use_cn">Yes, I agree to the Terms of Use</string>
+    <string name="reg_btn_cnfm">Register</string>
+    <string name="typist_email_hint">Typist E-mail Address</string>
+    <string name="abt_trl_title">About Trial</string>
+    <string name="annual_lcns_title">How to order annual licenses</string>
+    <string name="body_annual_licens"><![CDATA[If you wish to continue using the Olympus Dictation Service, please Login to Olympus Dictation Portal<br/><br/>License can be purchased under the [Account] Tab.<br/><br/>To purchase the license please enter the following information.<br/>\u2022  Country where you are based<br/>\u2022 The dealer you wish to purchase from<br/>\u2022 Number of Licenses<br/><br/>Olympus Dictation Portal URL <br/>[https://www.dictation-portal.com/-]]]></string>
+    <string name="body_about_trial"><![CDATA[Thank you for sigining up for the Olympus Dictation Delivery Service.<br/>The trial license is valid for xx days.<br/><br/>During the trial,you can add up to 100 Authors to be managed under  the Dictation Delivery Service.Authors can be added from the Olympus Dictation Portal.Login from the following URL.]]></string>
+    <string name="complete_btn">Complete</string>
+    <string name="reg_Completed_title">Registration Completed</string>
+    <string name="not_found_license">There is no available license</string>
+    <string name="email_activated">This device is already activaed by another e-mail address</string>
+    <string name="invalid_args">Invalid argument to activate to available license - Recipients is not set or invalide e-mail format - Author ID is blank or invalide character</string>
+    <string name="invalid_odp">Invalid ODP account. This ODP login ID is already registered</string>
+    <string name="invalid_odp_email">Invalid ODP e-mail address. ODP e-mail address for administrator is already registered.</string>
+    <string name="uuid_registerd">Same smartphone has been already registered to another account</string>
+    <string name="send_imp_message">The Dictation file you sent is currently stored on your device. Once you have activated your ODDS trial, please resend the Dictation.</string>
+    <string name="term_first">Tap here to read the</string>
+    <string name="term_third">for ODDS.</string>
+    <string name="term_link_txt">Terms of use</string>
+    <string name="term_link">Terms of Use</string>
+    <string name="btn_save">SAVE</string>
+    <string name="Retry" />
+    <string name="imp_notification_popup_email_message">Thank you for using the Olympus Dictation App. \nBeginning with Olympus Dictation Version 2.0.0, the ability to send Dictations by E-mail has been migrated to Olympus Dictation Delivery Service (ODDS). Your Dictations will be sent via an external server managed by ODDS.</string>
+    <string name="dummyMessage">Your file had been sent to the Dictation Delivery Server but could not be sent anywhere since the destination has not been set.</string>
+    <string name="imp_notification_popup_email_fresh_message">Thank you for using the Olympus Dictation App. \n\nFrom Olympus Dictation Version 2.0.0, function to send Dictation by email has been merged to Olympus Dictation Delivery Service(ODDS).Your Dictations will be sent via an external server managed by ODDS.\n\nPlease sign up to use the ODDS as a trial,you are required to purchase an annual license in order to continue using the ODDS. \n\nClick the following and sign up for the trial now.</string>
+    <string name="Recording_Label_Recycle">Restore</string>
+    <string name="Recording_Label_Restore">Recover</string>
+    <string name="Recording_Alerts_Restore_Recordings">Restore # Recordings?</string>
+    <string name="Recording_Alerts_Recover_Recordings_Message">Are you sure you want to Restore # recordings?</string>
+    <string name="restore">Restore</string>
+    <string name="recycle_bin_key">recycle_bin</string>
+    <string name="recycle_bin_items_key">keep recycle Bin Items</string>
+    <string name="keep_recycle_bin_items_title">Keep Recycle Bin Items</string>
+    <string name="terms_of_use_update_title">Terms of Use</string>
+    <string name="terms_of_use_content_update">Tap here to read the Terms of Use for ODDS</string>
+    <string name="terms_of_title">Terms of Use</string>
+    <string name="password_for_dictation_delivery_service">Password for Dictation Delivery Service</string>
+    <string name="account">Account</string>
+    <string name="authorid1_text">Your Account ID</string>
+    <string name="terms_of_use_confirmation">Tap here to read the Terms of Use for ODDS</string>
+    <string name="enter_email_hint">Enter Your E-mail Address</string>
+    <string name="enter_auth_email_hint">Enter Author  E-mail Address</string>
+    <string name="enter_authorid1_hint">Enter Author ID</string>
+</resources>

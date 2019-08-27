@@ -1,0 +1,137 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+
+        android:theme="@style/prefScreen">
+
+        <EditText
+            android:id="@+id/per_name_edt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginEnd="0dp"
+            android:ems="10"
+            android:hint="@string/name_hint"
+            android:inputType="textNoSuggestions|textFilter" />
+
+        <TextView
+            android:textSize="@dimen/text_size"
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/per_name_edt"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+
+            android:layout_marginEnd="0dp"
+            android:text="@string/name_per_txt" />
+
+        <EditText
+            android:id="@+id/accnt_id_edt"
+            android:layout_width="412dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView3"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="0dp"
+            android:ems="10"
+            android:hint="@string/authorid_hint"
+            android:inputType="textNoSuggestions|textFilter" />
+
+        <TextView
+            android:textSize="@dimen/text_size"
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/accnt_id_edt"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+
+            android:layout_marginEnd="0dp"
+            android:text="@string/account_id_txt" />
+
+        <EditText
+
+            android:id="@+id/accnt_password_edt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="0dp"
+            android:drawableRight="@drawable/password_hide"
+            android:ems="10"
+            android:hint="@string/password_hint"
+            android:inputType="textPassword|textNoSuggestions" />
+
+        <TextView
+            android:textSize="@dimen/text_size"
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/accnt_password_edt"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+
+            android:layout_marginEnd="0dp"
+            android:text="@string/account_password_txt" />
+
+        <EditText
+            android:id="@+id/accnt_email_edt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="15dp"
+            android:ems="10"
+            android:hint="@string/enter_email_hint"
+            android:inputType="textEmailAddress|textNoSuggestions" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size"
+            android:layout_below="@+id/accnt_email_edt"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp"
+
+            android:layout_marginBottom="79dp"
+            android:text="@string/account_email_txt" />
+
+        <Button
+            android:id="@+id/next_btn"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="510dp"
+
+            android:layout_marginEnd="0dp"
+
+
+            android:text="@string/next_btn" />
+
+    </RelativeLayout>
+</ScrollView>

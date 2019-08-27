@@ -1,0 +1,162 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Black.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppBase" parent="Theme.AppCompat.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+<style name="radobtn" parent="@android:style/Theme.Material">
+    <item name="android:colorControlActivated">@color/fab_color</item>
+    <item name="colorAccent">@color/fab_color</item>
+
+
+    <item name="android:checkMarkTint">@color/fab_color</item>
+    <item name="android:checkMark">@color/fab_color</item>
+</style>
+    <style name="progressDialogStyle" parent="@android:style/Theme.Dialog">
+
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+
+    </style>
+    <style name="dmact" parent="@android:style/Theme.Black.NoTitleBar">
+
+
+
+        <item name="android:colorControlActivated">@color/fab_color</item>
+        <item name="colorAccent">@color/fab_color</item>
+
+
+        <item name="android:checkMarkTint">@color/fab_color</item>
+        <item name="android:checkMark">@color/fab_color</item>
+
+    </style>
+
+
+    <style name="recepientActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/fab_color</item>
+        <item name="android:colorAccent">@color/fab_color</item>
+        <item name="android:checkMarkTint">@color/fab_color</item>
+
+
+    </style>
+
+    <style name="AppFullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+    <style name="worktype" parent="AppBaseTheme">
+        <item name="android:colorControlActivated">@color/fab_color</item>
+        <item name="colorAccent">@color/fab_color</item>
+
+
+        <item name="android:checkMarkTint">@color/fab_color</item>
+        <item name="android:checkMark">@color/fab_color</item>
+
+    </style>
+
+    <style name="prefScreen" parent="@android:style/Theme.Black">
+        <item name="android:colorControlActivated">@color/fab_color</item>
+        <item name="colorAccent">@color/fab_color</item>
+
+
+        <item name="android:checkMarkTint">@color/fab_color</item>
+        <item name="android:checkMark">@color/fab_color</item>
+
+    </style>
+    <style name="settingsScreen" parent="@android:style/Theme.Material">
+        <item name="android:colorControlActivated">@color/fab_color</item>
+        <item name="colorAccent">@color/fab_color</item>
+
+
+        <item name="android:checkMarkTint">@color/fab_color</item>
+        <item name="android:checkMark">@color/fab_color</item>
+
+    </style>
+    <!--<style name="MyRaidoButtonTwo" parent="Widget.AppCompat.CompoundButton.RadioButton">-->
+        <!--<item name="android:colorControlNormal">#64dd17</item>-->
+        <!--<item name="android:colorControlActivated">#460745</item>-->
+        <!--<item name="android:colorControlHighlight">#c51162</item>-->
+        <!--<item name="android:textColorPrimaryDisableOnly">#00838f</item>-->
+        <!--<item name="android:textAppearance">@style/TextAppearance.AppCompat</item>-->
+    <!--</style>-->
+
+    <style name="PrefsTheme" parent="@android:style/Theme.Black">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:colorAccent">@color/fab_color</item>
+        <!--<item name="android:colorAccent">@color/fab_color</item>-->
+        <!--<item name="android:colorControlActivated">@color/fab_color</item>-->
+
+
+
+
+                <item name="android:listViewStyle">@style/listViewPrefs</item>
+
+    </style>
+    <style name="Dialg" parent="@android:style/Theme.Black">
+
+
+    </style>
+
+    
+    <style name="listViewPrefs" parent="@android:style/Widget.ListView.White">
+       <!--  <item name="android:background">@drawable/relativeselector</item> -->
+        <item name="android:cacheColorHint">#000000</item>
+
+    </style>
+    
+    <style name="RecipientEditTextView" >
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+        
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:dropDownVerticalOffset">-6dip</item>
+        <item name="android:dropDownHorizontalOffset">-16dip</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+    </style>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">@color/black</item>
+        <item name="android:bottomDark">@color/black</item>
+        <item name="android:bottomMedium">@color/black</item>
+        <item name="android:centerBright">@color/black</item>
+        <item name="android:centerDark">@color/black</item>
+        <item name="android:centerMedium">@color/black</item>
+        <item name="android:fullBright">@color/black</item>
+        <item name="android:fullDark">@color/black</item>
+        <item name="android:topBright">@color/black</item>
+        <item name="android:topDark">@color/black</item>
+    </style>
+
+
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/rounded_layout</item>
+    </style>
+</resources>

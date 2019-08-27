@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/black"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:theme="@style/prefScreen"
+    android:weightSum="2">
+
+
+    <LinearLayout
+        android:id="@+id/lin_abv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/auth_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:drawableRight="@drawable/password_hide"
+            android:hint="@string/password3_hint"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="@string/password3"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size" />
+
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@id/lin_abv"
+        android:layout_gravity="end"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_weight="1"
+        android:gravity="bottom"
+
+        android:orientation="horizontal">
+
+        <!--<Button-->
+        <!--android:id="@+id/prev_btn3"-->
+        <!--android:layout_width="130dp"-->
+        <!--android:layout_height="@dimen/btn_height"-->
+
+        <!--android:layout_weight="1"-->
+        <!--android:padding="10dp"-->
+
+        <!--android:text="@string/prev_txt" />-->
+
+        <Button
+            android:id="@+id/next_btn3"
+            android:layout_width="130dp"
+            android:layout_height="@dimen/btn_height"
+            android:layout_alignParentEnd="true"
+            android:padding="10dp"
+            android:text="@string/next_btn" />
+    </RelativeLayout>
+
+</LinearLayout>
