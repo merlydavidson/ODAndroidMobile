@@ -3100,7 +3100,7 @@ public class ConvertAndUploadService extends Service implements RetryUploadListe
                                     if (mUploadResult.equalsIgnoreCase("2000")) {
 
                                             //    showMessageAlert1(getApplicationContext().getResources().getString(R.string.dummyMessage));
-
+Log.d("afs","sgfdfg");
 
 
 

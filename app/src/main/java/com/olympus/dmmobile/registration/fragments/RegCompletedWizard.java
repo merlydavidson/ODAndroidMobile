@@ -76,24 +76,7 @@ public class RegCompletedWizard extends Fragment implements View.OnClickListener
         termLinkText = view.findViewById(R.id.term_link_txt);
 
      String nameTermOfUse = getString(R.string.term_first) + " <a href=''  >" + getResources().getString(R.string.terms_of_use_title) + "</a> " + getString(R.string.term_third);
-     //  String nameTermOfUse=getString(R.string.terms_of_use_confirmation);
 
-        //   Log.d("LinkName", "name " + name);
-
-
-//        int i1 = nameTermOfUse.indexOf("the");
-//        int i2 = nameTermOfUse.indexOf("for");
-//        termLinkText.setMovementMethod(LinkMovementMethod.getInstance());
-//        termLinkText.setText(nameTermOfUse, TextView.BufferType.SPANNABLE);
-//        Spannable mySpannable = (Spannable) termLinkText.getText();
-//        ClickableSpan myClickableSpan = new ClickableSpan() {
-//            @Override
-//            public void onClick(View widget) {
-//                Intent intent = new Intent(getActivity(), TermsOfUseActivity.class);
-//                startActivity(intent);
-//            }
-//        };
-//        mySpannable.setSpan(myClickableSpan, i1, i2 + 1, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
 
 
         termLinkText.setText(Html.fromHtml(nameTermOfUse));
@@ -211,15 +194,7 @@ public class RegCompletedWizard extends Fragment implements View.OnClickListener
         }
     }
 
-//    @Override
-//    public void getResult(Boolean result) {
-//      //  mProgressDialog.dismiss();
-////        if (result) {
-//
-//
-//      //  }
-//
-//    }
+
 
 
 }
